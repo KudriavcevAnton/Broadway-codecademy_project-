@@ -21,6 +21,7 @@ h3
 {
   font-size: 23px;
   font-weight: bold;
+  color: white;
 }
 
 h4
@@ -32,4 +33,20 @@ h4
 p
 {
   font-size: 18px;
+}
+.copy-r
+{
+  font-size: 11px;
+}
+
+.footer
+{
+  text-align: left;
+  color: white;
+  background-color: dimgray;s
+}
+
+.backphoto
+{
+  background-image: url("resources/images/the-flatiron-building.png");
 }
