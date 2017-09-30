@@ -3,3 +3,33 @@ html
   font-family: helvetica;
   text-align: center;
 }
+
+h1
+{
+  font-weight: bold;
+  color: white;
+  font-size: 70px;
+}
+
+h2
+{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3
+{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4
+{
+  font-size: 18px;
+  color: white;
+}
+
+p
+{
+  font-size: 18px;
+}
