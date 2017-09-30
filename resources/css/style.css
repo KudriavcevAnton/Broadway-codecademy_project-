@@ -32,25 +32,30 @@ p
 {
   font-size: 18px;
 }
-.copy-r
+
+#footer
 {
   font-size: 11px;
-}
-
-.footer
-{
   text-align: left;
   color: white;
   background-color: dimgray;s
+
 }
 
 .backphoto
 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-size: cover;
+  background-position: center;
   color: white;
 }
 
 nav
 {
-  line-height: 0.9;
+  line-height: 1;
+}
+
+#color
+{
+  color: white;
 }
